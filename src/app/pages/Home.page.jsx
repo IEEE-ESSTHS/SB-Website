@@ -9,7 +9,7 @@ export default function HomePage() {
 				<div className="col-span-12 mx-auto">
 					<h1 className="mb-8 text-center text-4xl font-bold tracking-tight lg:mb-8 lg:text-center lg:text-6xl lg:font-extrabold lg:leading-none">
 						<span className="text-[#3a55b4] dark:text-[#4967d0]">IEEE</span>{" "}
-						ESSTHS Student Branch
+						ESSTHS Student Branch hhhhhhhh
 					</h1>
 					<img
 						src={"/assets/mosmoset.png"}
